@@ -1,1 +1,1 @@
-# natours_clone
+# twitter clone with Nodejs and Typescript
